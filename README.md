@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
