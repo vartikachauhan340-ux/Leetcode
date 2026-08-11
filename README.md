@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting Sort
 |  |
