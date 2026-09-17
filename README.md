@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
