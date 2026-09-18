@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
