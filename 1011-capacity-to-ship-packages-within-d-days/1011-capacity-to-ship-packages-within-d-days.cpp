@@ -25,7 +25,7 @@ public:
             sum+=weights[i];
             mx= max(mx, weights[i]);
         }
-        int st=0, end=sum, ans=-1;
+        int st=mx, end=sum, ans=-1;
         while(st<=end){
             int mid= st+(end-st)/2;
             if(isValid(weights, days, mid)){
