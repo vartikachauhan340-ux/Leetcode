@@ -16,7 +16,7 @@ public:
                 capacity= weights[i];
             }
         }
-        return day>days?false:true;
+        return day<=days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
         int n= weights.size();
