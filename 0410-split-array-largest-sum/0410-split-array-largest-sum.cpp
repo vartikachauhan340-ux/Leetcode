@@ -1,41 +1,33 @@
 class Solution {
 public:
-    bool isValid(vector<int>& nums, int k, int mid){
-        int student=1, pages=0;
-        int n=nums.size();
-        for(int i=0; i<n; i++){
-            if(nums[i]>mid){
-                return false;
-            }
-            if(pages+nums[i]<=mid){
-                pages+=nums[i];
-            }
-            else{
-                student++;
-                pages=nums[i];
+    int isValid(vector<int>& nums, int k, long long mid){
+        int split=1;
+        long long sum=0;
+        for(int i=0; i<nums.size(); i++){
+            if(sum + nums[i]<=mid){
+                sum+= nums[i];
+            } else{
+                split++;
+                sum = nums[i];
             }
         }
-        return student>k ?false:true;
-
+        return split<= k;
     }
     int splitArray(vector<int>& nums, int k) {
-        int n= nums.size();
-        int sum=0, mx=0;
-        for(int i=0; i<n; i++){
-            sum+=nums[i];
-            mx= max(mx, nums[i]);
+        long long low=0;
+        long long high=0;
+        for(int x: nums){
+            low= max(low, (long long)x);
+            high += x;
         }
-        int st=0, end=sum, ans=-1;
-        while(st<=end){
-            int mid= st+(end-st)/2;
-            if(isValid(nums,k,mid)){
-                ans=mid;
-                end=mid-1;
-            }
-            else{
-                st=mid+1;
+        while(low<= high){
+            long long mid= low+(high-low)/2;
+            if(isValid(nums,k, mid)){
+                high=mid-1;
+            } else{
+                low=mid+1;
             }
         }
-        return ans;
+        return low;
     }
 };
