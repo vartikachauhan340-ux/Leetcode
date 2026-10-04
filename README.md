@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
 ## Divide and Conquer
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Sliding Window
 |  |
