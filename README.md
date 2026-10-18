@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
+| [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
