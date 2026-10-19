@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
