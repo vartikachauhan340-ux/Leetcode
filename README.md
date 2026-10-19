@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
