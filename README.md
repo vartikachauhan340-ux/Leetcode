@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting Sort
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
