@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2848-points-that-intersect-with-cars](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2848-points-that-intersect-with-cars](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## String
 |  |
 | ------- |
