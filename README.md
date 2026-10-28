@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
