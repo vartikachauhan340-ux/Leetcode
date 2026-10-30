@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0268-missing-number) |
@@ -480,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
