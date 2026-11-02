@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
