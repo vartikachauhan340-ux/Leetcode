@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1882-process-tasks-using-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1901-find-a-peak-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
