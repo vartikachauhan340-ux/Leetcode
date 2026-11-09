@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
