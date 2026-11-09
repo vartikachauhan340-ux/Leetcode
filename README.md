@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
