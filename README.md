@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2848-points-that-intersect-with-cars](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
 ## Stack
