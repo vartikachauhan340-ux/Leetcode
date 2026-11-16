@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Newton's Method
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -663,4 +666,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
