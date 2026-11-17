@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2560-house-robber-iv](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2560-house-robber-iv) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
