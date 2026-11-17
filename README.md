@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -687,4 +689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
