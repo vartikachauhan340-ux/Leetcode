@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Interactive
@@ -698,4 +701,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
