@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0739-daily-temperatures) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
