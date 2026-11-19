@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0402-remove-k-digits) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
