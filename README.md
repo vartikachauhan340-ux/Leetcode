@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
