@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/vartikachauhan340-ux/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
