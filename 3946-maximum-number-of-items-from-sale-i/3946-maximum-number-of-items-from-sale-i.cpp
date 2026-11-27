@@ -1,0 +1,27 @@
+class Solution {
+public:
+    int maximumSaleItems(vector<vector<int>>& items, int budget) {
+        int n= items.size();
+        vector<int> dp(budget+1, 0);
+        int mn = INT_MAX;
+        for(int i=0; i<n; i++){
+            int factor= items[i][0];
+            int price= items[i][1];
+            mn= min(mn , price);
+            int cnt =0;
+            for(int j=0; j<n; j++){
+                if(items[j][0] % factor == 0){
+                    cnt++;
+                }
+            }
+            for(int b=budget; b>= price; b--){
+                dp[b] = max(dp[b], dp[b-price] + cnt);
+            }
+        }
+        int ans=0;
+        for(int i=0; i<= budget; i++){
+            ans= max(ans, dp[i] + (budget-i)/mn);
+        }
+        return ans;
+    }
+};
